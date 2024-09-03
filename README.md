@@ -1,1 +1,2 @@
 # Amazon-Sales-Analysis
+In this project, I performed an extensive analysis of Amazon's regional revenue, sales insights, order priority, and overall financial performance. The analysis revealed that Sub-Saharan Africa and Europe were the top-performing regions, generating $39.67M and $33.37M in revenue, respectively. Cosmetics and Clothes emerged as the leading product categories, contributing 39.5% and 33.7% of total sales, making these insights crucial for optimizing inventory and marketing strategies.
